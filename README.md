@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jonah-m
 - 👀 I’m interested in working with datasets
-- 🌱 I’m currently expanding my python skills, specifically fine tuning my skills with the pandas library.
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/jonah-macneill/)
 
 <!---
